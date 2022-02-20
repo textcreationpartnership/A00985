@@ -106,6 +106,9 @@
          <change>
             <date>2014-03</date>
             <label>pfs</label>Batch review (QC) and XML conversion</change>
+         <change>
+            <date>2022-02-20</date>
+            <label>lb</label>Upload to github</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="eng">
